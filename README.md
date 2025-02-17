@@ -1,5 +1,5 @@
+<img src="https://camo.githubusercontent.com/d14c72dffccadc996ca5433bec9ab3cacbc54bab9dca127cf2d05d69e2757980/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4e67757259316f347a3038304a666f797a772f67697068792e676966" alt="Coder GIF" height="400" data-canonical-src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-<img   align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJhMTZjZWFlMXJyMnhwYW1nMGZ4dHlxNDh0eGJhNDhmdmNicGJ1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="image" height="300" width="350" style="max-width: 100%; display: inline-block;" />
 
 
 <h1 align="center">Hi 👋, I'm Esraa Arafa Ahmed</h1>
